@@ -1,1 +1,1 @@
-this project is a website about me and me only.
+this thing is about me and me only
