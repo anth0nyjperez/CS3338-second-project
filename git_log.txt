@@ -1,0 +1,23 @@
+commit de6b3096bce1a126d9e3d2ae87820460eb3bec1b
+Author: Anthony <aperez427@calstatela.edu>
+Date:   Mon Feb 2 17:45:07 2026 -0800
+
+    added fav game
+
+commit 0319474d6be51d7184d543655ab72e0f5229c99a
+Author: Anthony <aperez427@calstatela.edu>
+Date:   Mon Feb 2 17:39:32 2026 -0800
+
+    added a readme file
+
+commit 11e2d574c35537f0b593ac97abf241bd13f9b04b
+Author: Anthony <aperez427@calstatela.edu>
+Date:   Mon Feb 2 17:33:07 2026 -0800
+
+    added stuff
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
